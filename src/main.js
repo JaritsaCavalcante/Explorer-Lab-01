@@ -45,7 +45,7 @@ const expirationDatePattern = {
   }
 }
 const expirationDateMasked = IMask(expirationDate, expirationDatePattern)
-console.log(expirationDateMasked)
+console.log(expirationDatesked)
 const cardNumber = document.querySelector("#card-number")
 
 const cardNumberPatter = {
