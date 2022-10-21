@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <h1 align="center"> Explorer Lab #01 </h1>
 
 <p align="center">
@@ -46,3 +47,7 @@ Esse projeto está sob a licença MIT.
 ---
 
 Feito com ♥ by Rocketseat :wave: [Participe da nossa comunidade!](https://discord.gg/rocketseat)
+=======
+# Explorer-Lab-01
+Semana do Explorer Lab da Rocketseat / Mayk e Rodrigo
+>>>>>>> b1d44e22ededae808d4b17573342ee792e93e2a7
